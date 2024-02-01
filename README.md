@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alok kumar gupta
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning MERN Full-Stack 
-- 💞️ - I'm looking for required this skills- HTML,CSS,JAVASCRIPT,BOOTSTRAP,REACTJS,C language.
+- 💞️ - I'm looking Job for required this skills- HTML,CSS,JAVASCRIPT,BOOTSTRAP,REACTJS,C language.
 - 📫 How to reach me - alokkumar9506492158@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
